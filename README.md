@@ -89,7 +89,7 @@ Deployment: Streamlit Cloud / Local Server
  ┗ 📜 model.pkl / saved_model
 ▶️ How to Run the Project
 1. Clone the Repository
-git clone https://github.com/your-username/toxicity-detection.git
+git clone https://github.com/lavutech/toxicity-detection.git
 cd toxicity-detection
 2. Install Dependencies
 pip install -r requirements.txt
